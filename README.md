@@ -1,2 +1,3 @@
-# cairo-test-cases
-Cairo programs used as test cases for projects with Starkware.
+# Cairo programs
+
+Cairo programs and test cases for projects with Starkware.
